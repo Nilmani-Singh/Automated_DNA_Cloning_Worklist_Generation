@@ -1,10 +1,7 @@
 This folder contains various Python modules required for automation for DNA cloning.
 
-The modules starts with formatting the oligos in IDT ordering format. After receiving the oligo information sheet from IDT, different modules create worklists for various steps during the assembly process. 
 
-
-
-# Run Sequence 
+### Run Sequence 
 
 `IDT_Ordering_Module`
 - Takes the designed oligos files, removes duplicates and created IDT ordering format. <br>
