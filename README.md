@@ -37,6 +37,7 @@ Each module is dependent on successful run of the previous module.
 
 
 **Addtional Modules:**
+
 `Annotate_Primers_Guides`
 - This module will generate genbank files with primers and guides annotated on original DNA seqeuence. 
 
